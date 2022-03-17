@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
+
+Welcome to my homepage.
 
 I am a Ph.D candidate in [Economics](https://www.ntu.edu.sg/sss/economics) at the School of Social Science, Nanyang Technological University. 
 
