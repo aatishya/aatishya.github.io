@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 header:
@@ -12,8 +12,7 @@ redirect_from:
 ---
 
 
-## About Me
-Welcome! 
+Welcome to my homepage.
 
 I am a Ph.D candidate in [Economics](https://www.ntu.edu.sg/sss/economics) at the School of Social Science, Nanyang Technological University. 
 
