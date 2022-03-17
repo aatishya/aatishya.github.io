@@ -12,7 +12,7 @@ redirect_from:
 ## About Me
 Welcome! 
 
-I am a Ph.D candidate in Economics at the School of Social Science, [Nanyang Technological University](https://www.ntu.edu.sg/). 
+I am a Ph.D candidate in [Economics](https://www.ntu.edu.sg/sss/economics) at the School of Social Science, [Nanyang Technological University](https://www.ntu.edu.sg/). 
 
 My research interests lie at the intersection of **development** and **cultural** economics. You can find more about my research [here](research) and access my *curriculum vitae* [here](cv). 
 
