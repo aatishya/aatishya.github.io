@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 header:
   overlay_image: cover.jpg
-  overlay_filter: 0.1
+  overlay_filter: 0.0
 redirect_from: 
   - /about/
   - /about.html
