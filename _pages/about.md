@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: "Homepage"
+title: "Homepage"
+excerpt: ""
 author_profile: true
 header:
   overlay_image: cover.jpg
