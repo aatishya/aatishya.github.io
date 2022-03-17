@@ -1,0 +1,19 @@
+---
+permalink: /research/
+title: "Research"
+---
+
+## Publications
+
+- “Sunlight and Culture,” *Journal of Economic Behavior & Organization* 188, 2021, pp. 757-782 (with Per G. Fredriksson).
+  - [Link to the article](https://www.sciencedirect.com/science/article/abs/pii/S0167268121002195)
+- "COVID-19 Regulations, Political Institutions, and the Environment", *Environmental and Resource Economics* 81, 2022, pp. 323-353 (with Per G. Fredriksson).
+  - [Link to the article](https://link.springer.com/article/10.1007/s10640-021-00628-z)
+  
+
+
+## Working Papers
+
+- “Covid-19 and Culture” (with James B. Ang).
+- “Diarrheal Disease, Sanitation, and Culture in India” (with Akshar Saxena).
+- “COVID-19 Regulations, Culture and the Environment” (with Swati Sharma).
