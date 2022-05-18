@@ -9,7 +9,7 @@ title: "Research"
   - [Link to the article](https://www.sciencedirect.com/science/article/abs/pii/S0167268121002195)
 - "COVID-19 Regulations, Political Institutions, and the Environment", *Environmental and Resource Economics* 81, 2022, pp. 323-353 (with Per G. Fredriksson).
   - [Link to the article](https://link.springer.com/article/10.1007/s10640-021-00628-z)
-- "COVID-19 Regulations, Culture, and the Environment", *Economic Modelling*, 105874, 2022 (with Swati Sharma).
+- "COVID-19 Regulations, Culture, and the Environment", *Economic Modelling*, 113, 2022, 105874 (with Swati Sharma).
   - [Link to the article](https://www.sciencedirect.com/science/article/pii/S0264999322001201) 
 
 
