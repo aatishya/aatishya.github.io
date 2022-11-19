@@ -14,7 +14,5 @@ title: "Research"
   - [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167268121002195)
 
 
-## Working Papers
 
-- “Covid-19 and Culture” (with James B. Ang).
 
