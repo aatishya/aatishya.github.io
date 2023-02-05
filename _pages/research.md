@@ -5,7 +5,7 @@ title: "Research"
 
 ## Publications
 
-- "COVID-19 and Culture", *Oxford Economic Papers*, Accepted (with James B. Ang).
+- "COVID-19 and Culture", *Oxford Economic Papers*, gpad001 (with James B. Ang).
   - [Link](https://doi.org/10.1093/oep/gpad001)
 - “Diarrheal Disease, Sanitation, and Culture in India”, *Social Science & Medicine*, 317, 2023, 115541 (with Akshar Saxena).
   - [Link](https://www.sciencedirect.com/science/article/abs/pii/S0277953622008474)
