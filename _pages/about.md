@@ -22,7 +22,6 @@ My research interests lie at the intersection of **development** and **cultural*
 **Email:** aatishya.mohanty(at)abdn.ac.uk
 
 Edward Wright Building \
-University of Aberdeen \
 Dunbar Street \
 Aberdeen AB24 3QY \
 Scotland, United Kingdom
